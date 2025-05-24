@@ -3,6 +3,8 @@
 간단한 TypeScript + React + styled-components 기반 To-do List 애플리케이션입니다.
 할 일 추가·편집·삭제·완료 토글 기능과 다중 선택 후 일괄 삭제 기능을 제공합니다.
 
+![Image](https://github.com/user-attachments/assets/8b34db9d-87e8-450c-8c60-eb0cd4ac2115)
+
 🔎 주요 기능
 할 일 추가: 입력창에 텍스트 입력 후 Enter
 
@@ -24,3 +26,19 @@
 번들러: Vite (또는 Create React App)
 
 상태 관리: React Hooks (useReducer) + 로컬스토리지 동기화
+
+## 🚀 설치 및 실행
+```javascript
+- 레포지토리 클론
+git clone https://github.com/your-username/ts-todo-app.git<br/>
+cd ts-todo-app
+
+- 의존성 설치
+npm install
+또는
+yarn
+
+- 개발 서버 실행
+npm start
+또는
+yarn start
