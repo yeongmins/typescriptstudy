@@ -1,11 +1,11 @@
 # 📋 To-do List
 
-간단한 TypeScript + React + styled-components 기반 To-do List 애플리케이션입니다.
+간단한 TypeScript + React + styled-components 기반 To-do List 애플리케이션입니다.<br>
 할 일 추가·편집·삭제·완료 토글 기능과 다중 선택 후 일괄 삭제 기능을 제공합니다.
 
 ![Image](https://github.com/user-attachments/assets/8b34db9d-87e8-450c-8c60-eb0cd4ac2115)
 
-🔎 주요 기능
+## 🔎 주요 기능
 할 일 추가: 입력창에 텍스트 입력 후 Enter
 
 인라인 편집: 목록 아이템 클릭 또는 Enter/Escape 키 제어
