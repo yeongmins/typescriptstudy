@@ -30,7 +30,7 @@
 ## 🚀 설치 및 실행
 ```javascript
 - 레포지토리 클론
-git clone https://github.com/your-username/ts-todo-app.git<br/>
+git clone https://github.com/yeongmins/typescriptstudy.git<br/>
 cd ts-todo-app
 
 - 의존성 설치
